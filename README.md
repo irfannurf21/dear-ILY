@@ -4,8 +4,8 @@
 
 ## 📷 Preview  
 <div style="text-align: center;">
-  <img src="./assets/preview-web.gif" alt="Preview web" width="700"/>
-  <img src="./assets/preview-smarphone.gif" alt="Preview smartphone" width="177"/>
+  <img src="./assets/preview-web.gif" alt="Preview web" width="400"/>
+  <img src="./assets/preview-smarphone.gif" alt="Preview smartphone" width="100"/>
 </div> 
 
 ## 🚀 Fitur  
